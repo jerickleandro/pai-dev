@@ -5,7 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Erick Leandro
-  picture: "/assets/blog/authors/erick.jpeg"
+  picture: "/assets/blog/authors/Erick.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
