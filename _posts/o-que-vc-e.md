@@ -1,13 +1,13 @@
 ---
-title: "O que você é"
-excerpt: "Quando alguém me pergunta "O que você é?", acredito que a resposta que colocamos em primeiro lugar revela o que damos mais prioridade em nossas vidas."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2023-01-09T13:00:00.322Z"
+title: "O que você é?"
+excerpt: "Quando alguém me pergunta 'O que você é?', acredito que a resposta que colocamos em primeiro lugar revela o que damos mais prioridade em nossas vidas."
+coverImage: "/assets/blog/o-que-vc-e/cover.jpg"
+date: "2023-01-09T05:35:07.322Z"
 author:
   name: Erick Leandro
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/Erick.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/o-que-vc-e/cover.jpg"
 ---
 
 Quando alguém me pergunta "O que você é?", acredito que a resposta que colocamos em primeiro lugar revela o que damos mais prioridade em nossas vidas. Não é raro ouvir mulheres responderem inicialmente com sua função materna, seguida pela profissão ou status de esposa. Curiosamente, essa sequência parece não ser tão comum entre os homens. Infelizmente, é frequente ouvir respostas como "Sou programador, trabalho com... e sou pai".
