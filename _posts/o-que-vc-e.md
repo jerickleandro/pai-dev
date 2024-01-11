@@ -2,7 +2,7 @@
 title: "O que você é?"
 excerpt: "Quando alguém me pergunta 'O que você é?', acredito que a resposta que colocamos em primeiro lugar revela o que damos mais prioridade em nossas vidas."
 coverImage: "/assets/blog/o-que-vc-e/cover.jpg"
-date: "2023-01-09T05:35:07.322Z"
+date: "2024-01-09T05:35:07.322Z"
 author:
   name: Erick Leandro
   picture: "/assets/blog/authors/Erick.jpeg"

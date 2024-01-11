@@ -2,7 +2,7 @@
 title: "Enquanto isso, vou brincando"
 excerpt: "Não é novidade que profissões que envolvem atividades intelectuais podem ser tão ou até mais desgastantes do que profissões que demandam esforço físico. O cansaço mental é uma realidade..."
 coverImage: "/assets/blog/vou-brincando/cover.jpg"
-date: "2022-01-10T05:35:07.322Z"
+date: "2024-01-10T05:35:07.322Z"
 author:
   name: Erick Leandro
   picture: "/assets/blog/authors/Erick.jpeg"
