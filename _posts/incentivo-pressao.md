@@ -2,7 +2,7 @@
 title: "Incentivo e pressão"
 excerpt: "Percebo que a maior parte dos textos que escrevi até agora neste blog trata mais das minhas dúvidas em relação ao exercício de ser pai. Isso ocorre porque não desejo ser apenas mais um pai; quero ser o melhor que posso ser para Sofia, e, portanto, surgem muitas dúvidas. Às vezes, essas dúvidas são tantas que não consigo organizá-las para escrever sobre cada uma. "
 coverImage: "/assets/blog/incentivo-pressao/cover.jpg"
-date: "2024-01-016T05:35:07.322Z"
+date: "2024-01-16T05:35:07.322Z"
 author:
   name: Erick Leandro
   picture: "/assets/blog/authors/Erick.jpeg"
