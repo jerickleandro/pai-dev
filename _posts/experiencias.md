@@ -1,13 +1,13 @@
 ---
 title: "Experiências?"
 excerpt: "Nascer e viver toda a minha vida no interior de Pernambuco limitou algumas experiências que poderia ter, mas ao mesmo tempo me proporcionou muitas outras. Ser criado na típica cidade pequena fez com que eu só fosse a um shopping na juventude, ao cinema apenas na adolescência e, tardiamente, realizar outras atividades que são comuns para quem nasce em uma cidade grande."
-coverImage: "/assets/blog/experiencias/cover.jpg"
+coverImage: "/assets/blog/experiencias/cover.jpeg"
 date: "2024-01-30T05:35:07.322Z"
 author:
   name: Erick Leandro
   picture: "/assets/blog/authors/Erick.jpeg"
 ogImage:
-  url: "/assets/blog/experiencias/cover.jpg"
+  url: "/assets/blog/experiencias/cover.jpeg"
 ---
 
 Nascer e viver toda a minha vida no interior de Pernambuco limitou algumas experiências que poderia ter, mas ao mesmo tempo me proporcionou muitas outras. Ser criado na típica cidade pequena fez com que eu só fosse a um shopping na juventude, ao cinema apenas na adolescência e, tardiamente, realizar outras atividades que são comuns para quem nasce em uma cidade grande. No entanto, pude explorar a cidade e a zona rural de bicicleta com meus amigos, permanecer na rua até altas horas da noite e voltar para casa apenas quando já era hora de dormir. Brincar de esconde-esconde no campo à noite era uma diversão constante, pois era mais difícil de ser encontrado e também de encontrar alguém (coitado de quem era o milú).
