@@ -1,13 +1,13 @@
 ---
 title: "Religião"
 excerpt: "Religião é um tema frequente aqui em casa. Thaíse e eu éramos religiosos até pouco tempo, mas com experiências diferentes. Cresci em um ambiente relativamente livre, tendo contato com as três principais religiões aqui no Brasil"
-coverImage: "/assets/blog/religiao/cover.jpg"
+coverImage: "/assets/blog/religiao/cover.jpeg"
 date: "2024-02-05T05:35:07.322Z"
 author:
   name: Erick Leandro
   picture: "/assets/blog/authors/Erick.jpeg"
 ogImage:
-  url: "/assets/blog/religiao/cover.jpg"
+  url: "/assets/blog/religiao/cover.jpeg"
 ---
 
 Religião é um tema frequente aqui em casa. Thaíse e eu éramos religiosos até pouco tempo, mas com experiências diferentes. Cresci em um ambiente relativamente livre, tendo contato com as três principais religiões aqui no Brasil: Catolicismo, Protestantismo e religiões de matrizes africanas. Contudo, a que era mais aceita para que eu seguisse, sem dúvida, era o Protestantismo. Meu pai é um evangélico tradicional, cursou teologia e tinha um conhecimento profundo sobre dogmas, não aceitando qualquer conceito livremente, sendo sempre crítico até mesmo à própria igreja. Minha mãe, por um tempo, não tinha uma religião muito bem definida, mas depois encontrou seu caminho na igreja evangélica, tornando-se crítica às outras crenças. A influência das religiões de matrizes africanas veio da minha avó materna, mas, após alguns acontecimentos, ela abriu mão disso e criou-se uma sensação de que esse tema era proibido dentro de casa. Com toda essa mistura, passei muito tempo sendo evangélico, servindo fielmente e estudando bastante.
